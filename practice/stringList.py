@@ -34,3 +34,10 @@ else:
     print(rvs)
 
 
+# easy
+
+newrvs = wordstr
+newrvs.reverse()
+print(newrvs)
+
+
